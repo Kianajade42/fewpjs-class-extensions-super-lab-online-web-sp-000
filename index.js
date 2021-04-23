@@ -24,4 +24,3 @@ class Tree{
            return `${super.definition()}Evergreens keep their leaves all year round.`
          }
        }
-
